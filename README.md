@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Gunansh Trivedi
 
-### 👨‍💻 Data Science | Machine Learning | NLP Enthusiast
+### 👨‍💻 Data Science | Machine Learning 
 
-I'm a passionate learner and problem-solver who enjoys building AI-powered solutions. I focus on applying machine learning and NLP to real-world problems, and I love working on projects that involve extracting insights from data.
+I'm a passionate learner and problem-solver who enjoys building AI-powered solutions. I focus on applying machine learning  to real-world problems, and I love working on projects that involve extracting insights from data.
 
 ---
 
@@ -10,8 +10,7 @@ I'm a passionate learner and problem-solver who enjoys building AI-powered solut
 
 - **Programming Languages**: Python, SQL
 - **Data Science & ML**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Deep Learning**: Transformers, Hugging Face, TensorFlow/PyTorch (basics)
-- **NLP**: Sentiment Analysis, Text Classification, LangChain, Chatbots
+- **NLP**: Sentiment Analysis, LangChain, Chatbots
 - **Tools**: Streamlit, Jupyter Notebook, Git, Excel
 
 ---
@@ -32,9 +31,9 @@ I'm a passionate learner and problem-solver who enjoys building AI-powered solut
 
 ### 📫 How to Reach Me
 
-- 📧 Email: [gunanshtrivedi@gmail.com](mailto:gunanshtrivedi@gmail.com)
+- 📧 Email: [gunansht01@gmail.com](mailto:gunansht01@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/gunanshtrivedi](https://www.linkedin.com/in/gunanshtrivedi)
-- 🧠 Portfolio: Coming Soon!
+
 
 ---
 
