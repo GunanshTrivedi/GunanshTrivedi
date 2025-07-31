@@ -8,7 +8,7 @@ I'm a passionate learner and problem-solver who enjoys building AI-powered solut
 
 ### 🧠 My Skills
 
-- **Programming Languages**: Python, SQL
+- **Programming Languages**: Python, SQL , HTML , CSS
 - **Data Science & ML**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **NLP**: Sentiment Analysis, LangChain, Chatbots
 - **Tools**: Streamlit, Jupyter Notebook, Git, Excel
